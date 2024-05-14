@@ -6,9 +6,7 @@
 # Olá, me chamo Natália :smiley_cat:
 
 <!-- https://pufler.dev/badge-it/ -->
-![Visits Badge](https://badges.pufler.dev/visits/NataliaLFB/NataliaLFB)
-![Repos Badge](https://badges.pufler.dev/repos/NataliaLFB)
-![Commits Badge](https://badges.pufler.dev/commits/monthly/NataliaLFB)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FNataliaLFB&label=Visits&countColor=%2337d67a)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FNataliaLFB)
 
 
 _Sou formada em Design pela ESPM-RJ e Pós-Graduada em User Experience, Design & Beyond pela PUC-RS. Vi em minha formação como o Design é importante e o impacto que ela causa no dia a dia 
