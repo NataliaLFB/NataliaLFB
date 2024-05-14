@@ -6,7 +6,7 @@
 # Olá, me chamo Natália :smiley_cat:
 
 <!-- https://pufler.dev/badge-it/ -->
-![Visits Badge](https://badges.pufler.dev/visits/NataliaLFB/badge-it)
+![Visits Badge](https://badges.pufler.dev/visits/NataliaLFB/NataliaLFB)
 ![Repos Badge](https://badges.pufler.dev/repos/NataliaLFB)
 ![Commits Badge](https://badges.pufler.dev/commits/monthly/NataliaLFB)
 
