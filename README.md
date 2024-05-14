@@ -11,7 +11,7 @@
 ![Commits Badge](https://badges.pufler.dev/commits/monthly/NataliaLFB)
 
 
-_Sou formada em Design pela ESPM-RJ e Pós-Graduada em User Experience, Design & Beyond pela PUC-RS. Vi em minha formação como o Design me fez perceber a imporância da arte e o impacto que ela causa no dia a dia 
+_Sou formada em Design pela ESPM-RJ e Pós-Graduada em User Experience, Design & Beyond pela PUC-RS. Vi em minha formação como o Design é importante e o impacto que ela causa no dia a dia 
 das pessoas, seja num ambiente digital ou físico. Sou curiosa e sempre estou disposta a aprender e trabalhar os conhecimentos adquiridos ao longo do caminho. Com o tempo percebi uma das etapas que mais me interessavam eram as em que eu tinha possibilidade de impactar as pessoas de forma que elas tivessem uma boa experiência no que viam e utilizavam. E a programação possibilita a realização desta vontade._
 
 > Amante de livros, séries, doces e jogos. 👾
